@@ -1,5 +1,8 @@
 # lastorigin_helper 라스트오리진 지역별 철충 지도
 
+url) https://sonagi784.github.io/lastorigin_helper/
+
+
 1. html, css, bootstrap 배운 뒤 개발시작
 
 2. carousel로 스테이지 구분, javascript 팝업 기능으로 몬스터 상세정보 출력, github pages로 웹호스팅, google analytics로 이용자 분석
